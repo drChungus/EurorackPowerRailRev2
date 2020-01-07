@@ -1,6 +1,7 @@
 # EurorackPowerRailRev2
 
 This power board is a simple but feature-full design to power your eurorack modules. The parts being used are easy to obtain and the board can be populated in no time.
+
 Features:
 - 8pcs of power connectors, 10 pin or 16 pin
 - 6 holes for mounting
