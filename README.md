@@ -5,7 +5,7 @@ This power board is a simple but feature-full design to power your eurorack modu
 Features:
 - 8pcs of power connectors, 10 pin or 16 pin
 - 6 holes for mounting
-- [Optional] On-board 5V converted with 7805
+- [Optional] On-board 5V line converter
 - [Optional] The boards can be Daisy-chained using jumpers in the corners
 - [Optional] Screw terminal connectors on every corner
 
