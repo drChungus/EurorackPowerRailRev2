@@ -1,12 +1,14 @@
 # EurorackPowerRailRev2
 
-Eurorack power rails connect have the purpose of connecting the power supply in the case to your modules. This power board is a simple but feature-rich design to power your eurorack modules.
+Eurorack power rails connect have the purpose of connecting the power supply in the case to your modules. This power board is a simple but feature-rich design to power your Eurorack modules.
 
 ![overview_photo](https://github.com/drChungus/EurorackPowerRailRev2/blob/d43d31ea04be847787aec6884cd60757d68648a9/img/IMG_20250401_181807.jpg)
 
-This design has 8 connectors every 100mm, which makes it relative space efficient among power buses. Also, using jumpers, boards next to each other can be connected, which practically makes this power bus mudular. If you are building your case with weird shapes and sizes, look no further for power distribution.
+This design has 8 power connectors per every 100mm, which makes it relatively space efficient among power buses. Also, using jumpers, boards next to each other can be connected, which practically makes this power bus mudular. If you are building your case with weird shapes and sizes, look no further for power distribution. You can see how power distribution can be neatly solved by daisy-chaining these rails in a [2 x 84HP case](https://github.com/drChungus/Bokkusu):
 
-The parts being used are easy to obtain and the board can be populated in no time with minimal soldering experience. While the building process can be considered easy you should be mindful about the quality of the soldered connections. As an example, see [this guide](https://learn.adafruit.com/adafruit-guide-excellent-soldering/common-problems) for an overview of how your soldering should look like.
+![Bokkusu_Example](https://github.com/drChungus/Bokkusu/blob/a9f2d587c1d22ba212f90f18b7bbaecec2261af5/07_Production/Images/IMG_20220322_211800.jpg)
+
+The parts being used are easy to obtain and the board can be populated in no time with minimal soldering experience. While the building process can be considered very beginner friendly, you should be mindful about the quality of the soldered connections. As an example, see [this guide](https://learn.adafruit.com/adafruit-guide-excellent-soldering/common-problems) for an overview of how your soldering should look like.
 
 ## Featuress
 
